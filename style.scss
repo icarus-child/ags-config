@@ -12,14 +12,14 @@ window.Bar {
   margin: 8px;
 
   >centerbox {
-    background: rgba($color: #eeeeee, $alpha: 0.85);
+    background: rgba($color: #eeeeee, $alpha: 0.9);
     border-radius: 6px;
     min-height: 10px;
     border: 2px solid rgba($color: #ffffff, $alpha: 1);
     padding: 2px;
 
     >time {
-      text-shadow: 0px 2px 4px #666666;
+      text-shadow: 0px 2px 2px #666666;
     }
   }
 }
